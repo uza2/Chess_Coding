@@ -1,0 +1,16 @@
+C:\Users\ahmed\Desktop\Chess-Coding-Adventure-Chess-V2-UCI\Chess-Coding-Adventure\bin\Debug\net6.0\Chess-Coding-Adventure.exe
+C:\Users\ahmed\Desktop\Chess-Coding-Adventure-Chess-V2-UCI\Chess-Coding-Adventure\bin\Debug\net6.0\Chess-Coding-Adventure.deps.json
+C:\Users\ahmed\Desktop\Chess-Coding-Adventure-Chess-V2-UCI\Chess-Coding-Adventure\bin\Debug\net6.0\Chess-Coding-Adventure.runtimeconfig.json
+C:\Users\ahmed\Desktop\Chess-Coding-Adventure-Chess-V2-UCI\Chess-Coding-Adventure\bin\Debug\net6.0\Chess-Coding-Adventure.dll
+C:\Users\ahmed\Desktop\Chess-Coding-Adventure-Chess-V2-UCI\Chess-Coding-Adventure\bin\Debug\net6.0\Chess-Coding-Adventure.pdb
+C:\Users\ahmed\Desktop\Chess-Coding-Adventure-Chess-V2-UCI\Chess-Coding-Adventure\obj\Debug\net6.0\Chess_Coding_Adventure.Properties.Resources.resources
+C:\Users\ahmed\Desktop\Chess-Coding-Adventure-Chess-V2-UCI\Chess-Coding-Adventure\obj\Debug\net6.0\Chess-Coding-Adventure.csproj.GenerateResource.cache
+C:\Users\ahmed\Desktop\Chess-Coding-Adventure-Chess-V2-UCI\Chess-Coding-Adventure\obj\Debug\net6.0\Chess-Coding-Adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\Desktop\Chess-Coding-Adventure-Chess-V2-UCI\Chess-Coding-Adventure\obj\Debug\net6.0\Chess-Coding-Adventure.AssemblyInfoInputs.cache
+C:\Users\ahmed\Desktop\Chess-Coding-Adventure-Chess-V2-UCI\Chess-Coding-Adventure\obj\Debug\net6.0\Chess-Coding-Adventure.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\Chess-Coding-Adventure-Chess-V2-UCI\Chess-Coding-Adventure\obj\Debug\net6.0\Chess-Coding-Adventure.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\Chess-Coding-Adventure-Chess-V2-UCI\Chess-Coding-Adventure\obj\Debug\net6.0\Chess-Coding-Adventure.dll
+C:\Users\ahmed\Desktop\Chess-Coding-Adventure-Chess-V2-UCI\Chess-Coding-Adventure\obj\Debug\net6.0\refint\Chess-Coding-Adventure.dll
+C:\Users\ahmed\Desktop\Chess-Coding-Adventure-Chess-V2-UCI\Chess-Coding-Adventure\obj\Debug\net6.0\Chess-Coding-Adventure.pdb
+C:\Users\ahmed\Desktop\Chess-Coding-Adventure-Chess-V2-UCI\Chess-Coding-Adventure\obj\Debug\net6.0\Chess-Coding-Adventure.genruntimeconfig.cache
+C:\Users\ahmed\Desktop\Chess-Coding-Adventure-Chess-V2-UCI\Chess-Coding-Adventure\obj\Debug\net6.0\ref\Chess-Coding-Adventure.dll

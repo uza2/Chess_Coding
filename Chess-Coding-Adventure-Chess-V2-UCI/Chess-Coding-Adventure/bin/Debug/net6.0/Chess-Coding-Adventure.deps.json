@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Chess-Coding-Adventure/1.0.0": {
+        "runtime": {
+          "Chess-Coding-Adventure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chess-Coding-Adventure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
